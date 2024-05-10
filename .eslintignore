@@ -6,5 +6,6 @@ dist/
 volumes/
 bellman-cuda
 
-# Ignore contract submodules
+# Ignore contract submodules new
+
 contracts
